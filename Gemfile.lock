@@ -1,0 +1,24 @@
+PATH
+  remote: .
+  specs:
+    htools (0.1.0)
+      awesome_print
+      colorize
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    awesome_print (1.8.0)
+    colorize (0.8.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  awesome_print
+  bundler
+  colorize
+  htools!
+
+BUNDLED WITH
+   1.16.6

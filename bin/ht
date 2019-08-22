@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'h_tools'
+
+HTools.cmdline
